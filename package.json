@@ -1,0 +1,24 @@
+{
+  "name": "dash-motion",
+  "version": "1.0.0",
+  "description": "Activate motion camera service via Amazon Dash button",
+  "main": "app.js",
+  "dependencies": {
+    "node-dash-button": "^0.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sudo node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatsumiHoshino/dash-motion.git"
+  },
+  "author": "NatsumiHoshino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NatsumiHoshino/dash-motion/issues"
+  },
+  "homepage": "https://github.com/NatsumiHoshino/dash-motion#readme"
+}
